@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free softwate'
+Git is a distributed version control sysytem.
+Git is free softwate.
